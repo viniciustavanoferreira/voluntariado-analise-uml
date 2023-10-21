@@ -14,4 +14,4 @@
 ![DS](./diagrama-de-sequencia/Sequence%20Diagram%20-%20Login.png)
 
 * Diagrama de Classes
-![DC](./diagrama-de-casos-de-uso/DiagramaClasse_UseCases.png)
+![DC](./diagrama-de-classes/DiagramaClasse_UseCases.png)
