@@ -3,7 +3,7 @@
 ### Diagramas UML para sistema de voluntariado:
 
 * Diagrama de Entidade Relacionamento
-![DER](./diagrama-entidade-relacionamento/voluntariado-diagrama-entidade-relacionamento.png)
+![DER](./diagrama-entidade-relacionamento/voluntariado-diagrama-entidade-relacionamento-2.png)
 
 * Diagrama de Casos de Uso
 ![DCU - Login - Novo](./diagrama-de-casos-de-uso/DiagramaCasoDeUso-TelaLogin-2.png)
